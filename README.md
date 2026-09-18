@@ -1,6 +1,6 @@
 # Hi there! I'm Eloy
 
-🎓 I’m currently studying **Software Engineering** at the **University of Málaga**.
+🎓 I’ve just finished **Software Engineering** at the **University of Málaga**.
 Throughout my career so far, I’ve worked on several projects that helped me take a closer look at my future as a developer — or wherever life takes me.
 
 💡 My main interests are:
